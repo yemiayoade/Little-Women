@@ -1,3 +1,7 @@
+# Pushing to Github
+# Yemi Ayoade
+# yemiayoade@arizona.edu
+# 2024/02/18
 
 library(ggplot2)
 
